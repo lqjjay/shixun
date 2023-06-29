@@ -1,0 +1,14 @@
+..\output\key.o: ..\User\key\key.c
+..\output\key.o: ..\User\key\key.h
+..\output\key.o: ..\Libraries\CMSIS\stm32f10x.h
+..\output\key.o: ..\Libraries\CMSIS\core_cm3.h
+..\output\key.o: D:\keil\ARM\ARMCC\bin\..\include\stdint.h
+..\output\key.o: ..\Libraries\CMSIS\system_stm32f10x.h
+..\output\key.o: ..\User\stm32f10x_conf.h
+..\output\key.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dbgmcu.h
+..\output\key.o: ..\Libraries\CMSIS\stm32f10x.h
+..\output\key.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+..\output\key.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+..\output\key.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
+..\output\key.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
+..\output\key.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h
